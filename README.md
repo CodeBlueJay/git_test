@@ -1,1 +1,2 @@
-First Git project hooray
+First Git project hooray.
+Game Idle.
